@@ -1,6 +1,6 @@
 # SAIW-Project
 
-These are the of the methods for which I has code access.
+These are 2 of the methods for which I had code access. The Multimodal method is the method refactored by me in order to take a video from a certain path as input and also is being able to calculate the overall emotions percentages.
 
 I didn't manage to upload the datasets because were too large. They are available here:
 - https://zenodo.org/record/5572910
